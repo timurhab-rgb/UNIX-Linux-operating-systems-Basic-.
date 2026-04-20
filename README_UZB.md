@@ -110,7 +110,7 @@ Ishingiz natijasida siz bajarilgan vazifalar haqida hisobot berishingiz kerak. V
 
 **== Topshiriq ==**
 
-##### grafik interfeysisiz **Ubuntu 20.04 Server LTS** o’rnat. (virtualizatsiyalash uchun VirtualBox dasturini o’rnatamiz)
+##### grafik interfeysisiz **Ubuntu 24.04 Server LTS** o’rnat. (virtualizatsiyalash uchun VirtualBox dasturini o’rnatamiz)
 
 - Grafik interfeys bo’lmasligi kerak.
 

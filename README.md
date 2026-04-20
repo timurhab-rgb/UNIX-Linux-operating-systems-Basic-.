@@ -131,7 +131,7 @@ As a result of the work you should provide a report with completed tasks. Each p
 
 **== Task ==**
 
-##### Install **Ubuntu 20.04 Server LTS** without GUI. (Use VirtualBox).
+##### Install **Ubuntu 24.04 Server LTS** without GUI. (Use VirtualBox).
 - There should be no GUI.
 - Check Ubuntu version by running the command \
   `cat /etc/issue`
